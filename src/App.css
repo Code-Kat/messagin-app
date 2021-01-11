@@ -2,13 +2,13 @@
  display:grid;
  place-items: center;
  height: 100vh;
- background-color: #d4ecc9;;
+ background-color: #d4ecc9;
+ overflow-x: scroll;
 }
 
 .app__body{
     display: flex;
     background-color: #e4f5dc;
-    margin-top: -50px;
     height: 90vh;
     width: 90vw;
     box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.75);

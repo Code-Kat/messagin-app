@@ -5,4 +5,5 @@ database user: admin
 password: yxO6DbP0fXbC7Pkg
 
 
-
+import media queries, use for app js to adjust app__body when small screen
+make 
